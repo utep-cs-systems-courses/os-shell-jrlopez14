@@ -1,12 +1,10 @@
 
-## Useful Snippets
+Enter bash commands.
 
-We provide several demonstration programs in Python and C that
-utilize the system calls and features necessary to implement your shell.
+Enter 'exit" to end shell.
 
-- argDemo: print command line arguments (how argv works)
-- envDemo: print the contents of envp (how envp works)
-- forkPipeDemo: a short program that uses fork & pipe
-- execDemo.c: a short program using exec
+Current program assumes '<', '>', and '|' are followed by valid parameters.
 
+Redirection is successful.
+Piping has some strange errors.
 
